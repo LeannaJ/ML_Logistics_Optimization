@@ -3,11 +3,9 @@
 ⚠️ **PROJECT DISCLAIMER** ⚠️
 
 This repository is based on a real-world logistics optimization project, but:
-- **All data, business rules, and parameters have been modified and abstracted for confidentiality**
 - **No actual company data or proprietary logic is included**
 - **Core optimization frameworks and architectures are abstracted for illustrative purposes**
-- **All quantitative aspects (revenue, costs, constraints) have been altered based on industry reports and research papers**
-- **This is an educational/research demonstration of ML and RL techniques in logistics**
+- **All data, business rules, and parameters have been modified and abstracted for confidentiality**
 
 The project demonstrates advanced machine learning and reinforcement learning methodologies for logistics optimization without using any proprietary business information.
 
